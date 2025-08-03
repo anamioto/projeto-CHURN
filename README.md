@@ -17,14 +17,14 @@ Este projeto implementa um sistema de Machine Learning para predição de churn 
   - Criar visualizações interpretáveis dos resultados
 
 ## 🏗️ Arquitetura do Projeto
-*- Apresentar toda a arquitetura e design do projeto.*
 > Neste repositório temos duas pastas: Churn-DEPOIS e Churn-ANTES
 >> **Churn-DEPOIS** representa como ficou o projeto após a aplicação das boas práticas na estrutura e design.
 >>
 >> **Churn-ANTES** representa um projeto legado e sem as boas práticas.
 >>
 >> Ambos contém **arquivos demonstrativos e vazios**. Durante o curso é indicado quais são os arquivos com conteúdo e que deverão ser utilizados.
-  
+
+*- Apresentar toda a arquitetura e design do projeto.*  
 ```
 projeto-CHURN/
 ├── Churn-depois/
