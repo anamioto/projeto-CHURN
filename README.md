@@ -27,8 +27,7 @@ Este projeto implementa um sistema de Machine Learning para predição de churn 
 *- Apresentar toda a arquitetura e design do projeto.*  
 ```
 projeto-CHURN/
-├── Churn-depois/
-│   ├── data/                    # Datasets e arquivos de dados
+|   ├── data/                    # Datasets e arquivos de dados
 │   │   ├── raw/                 # Dados brutos
 │   │   ├── processed/           # Dados processados
 │   │   └── external/            # Dados externos
