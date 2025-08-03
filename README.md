@@ -150,7 +150,7 @@ python src/models/evaluate_model.py
 ## 📈 Resultados Principais
 
 ### Performance dos Modelos
-*- Apresentar um compartivo dos resultados do modelo.*
+*- Apresentar um comparativo dos resultados dos modelos.*
 
 | Modelo | Accuracy | Precision | Recall | F1-Score | 
 |--------|----------|-----------|--------|----------|
