@@ -1,3 +1,0 @@
-customer_id,signup_date,last_purchase_date,total_spent,num_orders,cancel_date,data_ingestion,city,product_id,churn,days_since_last_purchase,fidelidade,score_gasto,cat_eletronico,cat_outro,pay_boleto,pay_pix
-1,2022-01-01,2022-01-20,1000.0,10,,2022-02-05,São Paulo,A1,0,10.0,0.9090909090909091,10000.0,True,False,False,True
-2,2022-01-15,2022-02-01,500.0,5,,2022-02-10,Desconhecido,B2,1,10.0,0.45454545454545453,2500.0,False,True,True,False
