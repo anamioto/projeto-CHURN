@@ -216,7 +216,7 @@ seaborn>=0.11.0
 ```
 
 ## 🤝 Contribuindo
-- Um passo-a-passo para incentivar que novas ideias ou melhorias possam ser feitas no seu projeto.
+*- Um passo-a-passo para incentivar que novas ideias ou melhorias possam ser feitas no seu projeto.*
 
 1. **Fork** o projeto
 2. Crie uma **branch** para sua feature (`git checkout -b feature/nova-feature`)
@@ -225,7 +225,7 @@ seaborn>=0.11.0
 5. Abra um **Pull Request**
 
 ## 📝 Próximos Passos
-- Apresentar quais são as ideias de melhoria e próximos passos a serem desenvolvidos
+*- Apresentar quais são as ideias de melhoria e próximos passos a serem desenvolvidos.*
 
 ### Melhorias Técnicas
 - [ ] Implementar validação cruzada estratificada
@@ -240,7 +240,7 @@ seaborn>=0.11.0
 - [ ] A/B testing para estratégias de retenção
 
 ## 👥 Autor
-- Descreva brevemente quem é você e sua formação
+*- Descreva brevemente quem é você e sua formação.*
 
 **Ana Clara Mioto**
 - GitHub: [@anamioto](https://github.com/anamioto)
@@ -249,7 +249,7 @@ seaborn>=0.11.0
 
 ## 📄 Licença
 
-Adicionar licença ao projeto caso haja.
+*Adicionar licença ao projeto caso haja.*
 
 ## 📞 Contato
 
@@ -262,7 +262,7 @@ Para dúvidas, sugestões ou colaborações:
 ---
 
 ## 🔍 Glossário
-- Explicação/significado de termos fundamentais para o projeto.
+*- Explicação/significado de termos de négocio e técnicos para entendimendo do seu projeto.*
 
 - **Churn**: Taxa de evasão/cancelamento de clientes
 - **Feature Engineering**: Processo de criação e seleção de variáveis
